@@ -1,5 +1,6 @@
-Se crearan los Socket SERVIDOR y CLIENTE. 
-
+Ligera practica para el modulo Socket.
+Se crearan 2 scripts, uno para el servidor y otro para cliente con los pasos indicados abajo. Ej: Servidor.py, Cliente.py.
+Una vez creados los scripts se ejecuta primero el script Servidor, luego el script Cliente. 
 
 SERVIDOR:
 
